@@ -23,4 +23,7 @@ python main.py your_article_name_here yes
 
 #Credits
 
-Thanks to [prabhakar267](https://github.com/prabhakar267) for the inspiration.
+@siraj 
+
+#note:
+Iam including some other codes also which i have tried for webscrappin. Have a look
